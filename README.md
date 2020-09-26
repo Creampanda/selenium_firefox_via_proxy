@@ -1,2 +1,1 @@
-# selenium_firefox_via_proxy
-# selenium_firefox_via_proxy
+This script create a new firefox window with proxy connection.
